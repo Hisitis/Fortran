@@ -31,3 +31,8 @@ Ajout du boucle permetant à l'utilisateur de redonner un nombre si celui-ci est
 Version 1.2 :
 
 Perfectionnement de la boucle permetant de redonner un nombre si l'entrée de l'utilisateur n'est pas un entier positif
+
+
+Version 1.2.1 :
+
+Ajout des coordonnées de chaque point. Fonctionnalité probablement retirée en 1.3
