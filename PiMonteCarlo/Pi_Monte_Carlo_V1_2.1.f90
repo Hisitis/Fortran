@@ -2,7 +2,7 @@
 !
 !   PROGRAMME : Pi_Monte_Carlo.f90
 !
-!   Version : 1.2_test
+!   Version : 1.2.1
 !
 !   OBJET : Approxime la valeur de π
 !
